@@ -1,0 +1,11 @@
+.userInput {
+  outline: none;
+}
+
+.userInput:focus {
+  outline: none;
+}
+
+model-viewer {
+  contain: paint !important;
+}

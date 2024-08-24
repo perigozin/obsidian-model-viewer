@@ -1,0 +1,10 @@
+{
+	"id": "model-viewer",
+	"name": "Model Viewer",
+	"version": "0.0.1",
+	"minAppVersion": "0.15.0",
+	"description": "View 3D models directly in Obsidian.",
+	"author": "bololodev",
+	"authorUrl": "https://github.com/bololodev",
+	"isDesktopOnly": false
+}
